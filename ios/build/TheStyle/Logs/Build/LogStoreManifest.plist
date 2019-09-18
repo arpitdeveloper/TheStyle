@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>00A111E0-07C5-4500-AE34-17BE342D28DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>00A111E0-07C5-4500-AE34-17BE342D28DB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheStyle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace TheStyle with scheme TheStyle and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590478992.47313499</real>
+			<key>timeStoppedRecording</key>
+			<real>590479001.82682502</real>
+			<key>title</key>
+			<string>Building workspace TheStyle with scheme TheStyle and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>00A111E0-07C5-4500-AE34-17BE342D28DB</string>
+		</dict>
+		<key>D612AEE8-448E-48FA-B348-AC55E2251D5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D612AEE8-448E-48FA-B348-AC55E2251D5E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TheStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TheStyle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace TheStyle with scheme TheStyle and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590403729.41214395</real>
+			<key>timeStoppedRecording</key>
+			<real>590403731.86386001</real>
+			<key>title</key>
+			<string>Building workspace TheStyle with scheme TheStyle and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D612AEE8-448E-48FA-B348-AC55E2251D5E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

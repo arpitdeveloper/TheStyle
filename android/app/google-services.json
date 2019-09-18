@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632221249248",
+    "firebase_url": "https://thestyle-fe148.firebaseio.com",
+    "project_id": "thestyle-fe148",
+    "storage_bucket": "thestyle-fe148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632221249248:android:a706ce3c968277adefea85",
+        "android_client_info": {
+          "package_name": "com.thestyle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632221249248-0ono2m7b0sapj41ajb2s9u78ms50jjgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdw7K16PeAjLs-Yj0AfFxjQZR8-XjOCdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632221249248-0ono2m7b0sapj41ajb2s9u78ms50jjgd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632221249248-s3ofb7tninblh5birr0ob862f4450ukt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TheStyle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

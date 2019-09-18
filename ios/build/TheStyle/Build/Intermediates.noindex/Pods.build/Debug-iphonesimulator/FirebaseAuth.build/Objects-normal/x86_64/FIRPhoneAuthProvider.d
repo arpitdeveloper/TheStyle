@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/Phone/FIRPhoneAuthProvider.m \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRPhoneAuthProvider.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/Phone/FIRPhoneAuthCredential_Internal.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRPhoneAuthCredential.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthCredential.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/SystemService/FIRAuthAPNSToken.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthAPNSTokenType.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/SystemService/FIRAuthAPNSTokenManager.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/SystemService/FIRAuthAppCredential.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/SystemService/FIRAuthAppCredentialManager.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Auth/FIRAuthGlobalWorkQueue.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Auth/FIRAuth_Internal.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuth.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthErrors.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/Headers/Private/FirebaseAuthInterop/FIRAuthInterop.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthURLPresenter.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/SystemService/FIRAuthNotificationManager.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthErrorUtils.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthBackend.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthSettings.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthWebUtils.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FirebaseAuthVersion.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRGetProjectConfigRequest.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRIdentityToolkitRequest.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRequestConfiguration.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRPCRequest.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRGetProjectConfigResponse.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRPCResponse.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRSendVerificationCodeRequest.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRSendVerificationCodeResponse.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRVerifyClientRequest.h \
+  /Users/apple/Documents/Rajesh\ shinde/React\ Native/TheStyle/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRVerifyClientResponse.h
