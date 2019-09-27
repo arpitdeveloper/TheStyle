@@ -4,7 +4,7 @@
             "outputFile": "/Users/apple/Documents/Rajesh shinde/React Native/TheStyle/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/5596735457708ba0666c7540cc1c9eed/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/d70ac7e1de184d3ffd6353a768147872/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/0e484e381c15497ac420d919122d3b64/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

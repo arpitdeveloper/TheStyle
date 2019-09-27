@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>00A111E0-07C5-4500-AE34-17BE342D28DB</key>
+		<key>2734723F-296E-45F9-9FBC-C5E88FC4BD68</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,9 +15,9 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>00A111E0-07C5-4500-AE34-17BE342D28DB.xcactivitylog</string>
+			<string>2734723F-296E-45F9-9FBC-C5E88FC4BD68.xcactivitylog</string>
 			<key>highLevelStatus</key>
-			<string>W</string>
+			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
 			<string>TheStyle project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -27,15 +27,15 @@
 			<key>signature</key>
 			<string>Building workspace TheStyle with scheme TheStyle and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>590478992.47313499</real>
+			<real>591164744.21022403</real>
 			<key>timeStoppedRecording</key>
-			<real>590479001.82682502</real>
+			<real>591164748.46565294</real>
 			<key>title</key>
 			<string>Building workspace TheStyle with scheme TheStyle and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>00A111E0-07C5-4500-AE34-17BE342D28DB</string>
+			<string>2734723F-296E-45F9-9FBC-C5E88FC4BD68</string>
 		</dict>
-		<key>D612AEE8-448E-48FA-B348-AC55E2251D5E</key>
+		<key>E9ED0F35-C253-40C1-9D97-E778597BEF85</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -44,9 +44,9 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D612AEE8-448E-48FA-B348-AC55E2251D5E.xcactivitylog</string>
+			<string>E9ED0F35-C253-40C1-9D97-E778597BEF85.xcactivitylog</string>
 			<key>highLevelStatus</key>
-			<string>W</string>
+			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
 			<string>TheStyle project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -56,13 +56,13 @@
 			<key>signature</key>
 			<string>Building workspace TheStyle with scheme TheStyle and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>590403729.41214395</real>
+			<real>591163951.43874395</real>
 			<key>timeStoppedRecording</key>
-			<real>590403731.86386001</real>
+			<real>591163963.59379601</real>
 			<key>title</key>
 			<string>Building workspace TheStyle with scheme TheStyle and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>D612AEE8-448E-48FA-B348-AC55E2251D5E</string>
+			<string>E9ED0F35-C253-40C1-9D97-E778597BEF85</string>
 		</dict>
 	</dict>
 </dict>
