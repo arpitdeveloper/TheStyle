@@ -30,21 +30,31 @@ export default class signUpPage extends Component {
 
   constructor(props) {
     super(props);
-    this.state ={ email: '', password: '', errorMessage: null };
+    this.handleLogin=this.handleLogin.bind(this);
+    this.state ={ email: '', password: '', errorMessage: null, name: false };
   }
-  saveData(){  
-    let name = "Michal";  
-    AsyncStorage.setItem('user',name);  
+  saveData() {  
+    let usName = true
+    AsyncStorage.setItem('user',usName);  
+    Actions.HomePage()
   }  
   handleLogin = () => {
     console.log('hrere');
    
     firebase.auth().createUserWithEmailAndPassword(this.state.email, this.state.password).then(
-      
-      Actions.HomePage()
+      this.saveData
+      //Actions.HomePage()
       ).catch(error => this.setState({ errorMessage: error.message }))
    
   }
+  _storeData = async () => {
+    try {
+      await AsyncStorage.setItem('isLoging', true);
+      Actions.HomePage()
+    } catch (error) {
+      // Error saving data
+    }
+  };
   onUsernameChange(srt) {
     let s = this.state;
     s.email = srt;
@@ -53,6 +63,7 @@ export default class signUpPage extends Component {
  _storeData = async (name) => {
   try {
     await AsyncStorage.setItem('isLogin', name);
+    Actions.HomePage()
   } catch (error) {
     // Error saving data
   }
